@@ -1,4 +1,4 @@
-# **Title: Exploring GitHub and Jupyter Notebooks**
+# **Exploring GitHub and Jupyter Notebooks**
 
 **Objective:** This assignment aimed to familiarize me with GitHub and Jupyter Notebooks, allowing me to set up a version control system and practice interactive computing. I created and managed a GitHub repository, installed and used Jupyter Notebook, and integrated my work into my GitHub repository.
 
